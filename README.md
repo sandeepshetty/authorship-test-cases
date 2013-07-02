@@ -1,3 +1,2 @@
 
-
-Test cases for the [Authorship Algorithm](http://indiewebcamp.com/authorship)
+Test cases for the [IndieWeb Authorship Algorithm](http://indiewebcamp.com/authorship)
